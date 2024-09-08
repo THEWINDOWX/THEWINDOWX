@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @THEWINDOWX
+- 👋 Hi, I’m @Pranshul Soni
 - 👀 I’m interested in ...Game Development  
 - 🌱 I’m currently learning ....Game Development  
 - 💞️ I’m looking to collaborate on ... Shooter Game Developers
